@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-alpha.8](https://github.com/sourcefuse/loopback4-microservice-catalog/compare/@sourceloop/core@1.0.0-alpha.6...@sourceloop/core@1.0.0-alpha.8) (2020-07-20)
+
+
+### New Feature
+
+* **core:** fix expiry handling ([1533c04](https://github.com/sourcefuse/loopback4-microservice-catalog/pull/57/commits/1533c049bd86046aea0c46a7c7be2d939a1c2aac))
+
+
+
 # [1.0.0-alpha.7](https://github.com/sourcefuse/loopback4-microservice-catalog/compare/@sourceloop/core@1.0.0-alpha.6...@sourceloop/core@1.0.0-alpha.7) (2020-07-20)
 
 
